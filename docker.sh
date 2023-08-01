@@ -30,5 +30,5 @@ su - ${USER}
 
 sudo usermod -aG docker jenkins
 
-#restasrt Jenkins
+#restasrt Jenkinss
 sudo systemctl restart jenkins
